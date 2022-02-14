@@ -1,6 +1,6 @@
-# Divar-Competition
+# Divar-Challenge
 
-2nd place solution for Divar challenge. Data Mining Competition, 1400 ([Link](https://aaic.aut.ac.ir/competition/6))
+2nd place solution for Divar challenge. Amirkabir Artificial Intelligence Competitions, 1400 ([Link](https://aaic.aut.ac.ir/competition/6))
 
 ## Problem Definition
 Decide if a post should be accepted or rejected based on a combination of categorical, numerical, and text features.
