@@ -1,9 +1,9 @@
 # Divar-Competition
 
-2nd place solution for Divar challenge. Data Mining Competition, 2022 ([Link](https://aaic.aut.ac.ir/competition/6))
+2nd place solution for Divar challenge. Data Mining Competition, 1400 ([Link](https://aaic.aut.ac.ir/competition/6))
 
 ## Problem Definition
-Decide if a post should be accepted or rejected. A post is a combination of categorical, numerical and text data.
+Decide if a post should be accepted or rejected based on a combination of categorical, numerical, and text features.
 
 ## Results
   
