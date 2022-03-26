@@ -3,7 +3,8 @@
 2nd place solution for Divar challenge. Amirkabir Artificial Intelligence Competitions, 1400 ([Competition Website](https://aaic.aut.ac.ir/competition/6)).
 
 ## Problem Definition
-Decide if a post should be accepted or rejected based on its categorical, numerical, and text features.
+Decide if a post should be accepted or rejected based on its categorical, numerical, and text features.\
+The complete definition is [here](https://github.com/HosseinZaredar/Divar-Challenge/blob/main/amirkabir-data-challenge-intro.pdf).
 
 ## Results for Different Methods
   
